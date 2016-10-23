@@ -1,0 +1,13 @@
+Name  : Farhana
+ID  : 1407052
+Department  : CSE
+University  : KUET
+Current CGPA  : 3.75
+
+  
+  
+Name  : Mithila
+ID  : 1407054
+Department  : CSE
+University  : KUET
+Current CGPA  : 3.50
